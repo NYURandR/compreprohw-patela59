@@ -405,3 +405,8 @@ female <- filter(crusio1, sex == "f")
 head(female)
 ```
 
+###Good Practice for compuational reporoducibility
+The authors describe several manners to allow for computational reproucibility. One way is to alwys save raw data files seperately from the data clean-up and intermediate analysis and final data files, this would allow one to always go back and re-analyze the data either from the begining or from intermediate steps. 
+
+#square root of 4 to the 13th power
+sqrt(4^13)
